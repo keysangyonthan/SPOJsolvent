@@ -1,5 +1,3 @@
-int main(void){
+int calculator(int x, int y){
 
-
-  return 0;
 }
